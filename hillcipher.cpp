@@ -64,6 +64,6 @@ int main()
     cin>>pt;
     convert(key,keymat,intct,pt);
     matmul(keymat,intct,resmat); 
-    print(resmat);
+    
 
 }
